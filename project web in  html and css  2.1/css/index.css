@@ -1,0 +1,71 @@
+
+/* start the content main */
+
+
+.card-body i{
+    font-size:30px;
+    margin-top:2px;
+    /* text-align: right; */
+    color: #5f4b99;
+}
+
+.card-body i:hover{
+    /*text-align: right;
+    */color: #ffffff;
+    background-color: #5f4b99;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.card-body h5{
+    font-size:25px;
+    margin-top:2px;
+    font-weight: bold;
+    text-align: right;
+}   
+.card-body p{
+    font-size:20px;
+    margin-top:2px;
+    text-align: right;
+}
+.card-body .btn-primary{
+    margin-left:25%;
+    
+}
+
+
+
+.card img{
+    width: 100%;
+    height: 280px;
+}
+
+.col-lg-4{
+    margin-top: 20px;
+}
+
+
+
+
+/* start thte content main */
+
+.modal-content .modal-footer a{
+    text-decoration: none;
+    font-size: 40px;
+    color: #5f4b99;
+    margin-right: 50px;
+    margin-top: -10px;
+   
+}
+
+.modal-content .modal-footer :hover{
+    color: #5b81ce;
+    border-radius: 10px;
+
+  
+}
+
+/* end the content main */

@@ -1,0 +1,33 @@
+.card .card-header h1{
+
+text-align: center;
+background-color: rgb(159, 130, 186);
+}
+form div label{
+    font-weight: bold;
+    width: 100px;
+    text-align: right;
+    font-size:large;
+}
+.card{
+    height: 600px;
+}
+.card-body{
+   height:100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+}
+.card-body a{
+    margin-top: 10px;
+    width: 400px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: rgb(159, 130, 186);
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    text-align: center; 
+    margin-right: 30%;
+  }

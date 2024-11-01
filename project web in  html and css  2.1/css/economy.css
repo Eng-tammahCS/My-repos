@@ -1,0 +1,31 @@
+.carousel-caption h2{
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #750a55;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius:20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+   
+    text-align: center;
+}
+.carousel-caption {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius:20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+   
+   
+
+}
+.carousel-caption p{
+    font-size: 2rem;
+    color: #750a55;
+
+}
