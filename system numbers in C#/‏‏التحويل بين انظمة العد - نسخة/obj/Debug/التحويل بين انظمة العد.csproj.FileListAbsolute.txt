@@ -1,0 +1,25 @@
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\bin\Debug\التحويل بين انظمة العد.exe.config
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\bin\Debug\التحويل بين انظمة العد.exe
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\bin\Debug\التحويل بين انظمة العد.pdb
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\bin\Debug\Guna.UI2.dll
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل بين انظمة العد.csproj.AssemblyReference.cache
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل بين انظمة العد.csproj.SuggestedBindingRedirects.cache
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل_بين_انظمة_العد.Form1.resources
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل_بين_انظمة_العد.Properties.Resources.resources
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل بين انظمة العد.csproj.GenerateResource.cache
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل بين انظمة العد.csproj.CoreCompileInputs.cache
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل بين انظمة العد.csproj.CopyComplete
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل بين انظمة العد.exe
+C:\Users\a new life\source\repos\التحويل بين انظمة العد\obj\Debug\التحويل بين انظمة العد.pdb
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\bin\Debug\التحويل بين انظمة العد.exe.config
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\bin\Debug\التحويل بين انظمة العد.exe
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\bin\Debug\التحويل بين انظمة العد.pdb
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل بين انظمة العد.csproj.AssemblyReference.cache
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل بين انظمة العد.csproj.SuggestedBindingRedirects.cache
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل_بين_انظمة_العد.Form1.resources
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل_بين_انظمة_العد.Properties.Resources.resources
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل بين انظمة العد.csproj.GenerateResource.cache
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل بين انظمة العد.csproj.CoreCompileInputs.cache
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل بين انظمة العد.csproj.CopyComplete
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل بين انظمة العد.exe
+D:\مشاريعي\التحويل\‏‏التحويل بين انظمة العد - نسخة\obj\Debug\التحويل بين انظمة العد.pdb
