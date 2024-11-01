@@ -1,0 +1,15 @@
+C:\Users\a new life\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\a new life\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\a new life\source\repos\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\a new life\source\repos\WindowsFormsApp5\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\a new life\source\repos\WindowsFormsApp5\bin\Debug\Guna.UI2.dll
+C:\Users\a new life\source\repos\WindowsFormsApp5\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\a new life\source\repos\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
