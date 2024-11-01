@@ -1,0 +1,39 @@
+﻿  ProjectCurrency.cpp
+C:\Users\a new life\Desktop\clsUtil.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsDate.h(128,38): warning C4101: 'Second': unreferenced local variable
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsDate.h(128,26): warning C4101: 'Hour': unreferenced local variable
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsDate.h(128,31): warning C4101: 'Minute': unreferenced local variable
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\Desktop\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\source\repos\ProjectCurrency\clsCurrency.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ProjectCurrency.cpp')
+  
+C:\Users\a new life\source\repos\ProjectCurrency\ProjectCurrency.cpp(45,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  ProjectCurrency.vcxproj -> C:\Users\a new life\source\repos\ProjectCurrency\x64\Debug\ProjectCurrency.exe

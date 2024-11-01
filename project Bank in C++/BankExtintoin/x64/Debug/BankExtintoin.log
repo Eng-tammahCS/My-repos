@@ -1,0 +1,72 @@
+﻿  BankExtintoin.cpp
+C:\Users\a new life\Desktop\clsUtil.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsDate.h(128,38): warning C4101: 'Second': unreferenced local variable
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsDate.h(128,26): warning C4101: 'Hour': unreferenced local variable
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsDate.h(128,31): warning C4101: 'Minute': unreferenced local variable
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\Desktop\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsUser.h(269,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankExtintoin.cpp')
+  C:\Users\a new life\source\repos\BankExtintoin\clsUser.h(13,9):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsBankClient.h(42,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsBankClient.h(54,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsBankClient.h(55,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsBankClient.h(456,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsBankClient.h(467,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsTotalBalancesScreen.h(43,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsTransferScreen.h(54,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsCurrency.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsUpdateCurrencyScreen.h(54,13): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsMainScreen.h(65,24): warning C4551: function call missing argument list
+  (compiling source file 'BankExtintoin.cpp')
+  
+C:\Users\a new life\source\repos\BankExtintoin\clsBankClient.h(387,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\a new life\source\repos\BankExtintoin\clsUser.h(211,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankExtintoin.vcxproj -> C:\Users\a new life\source\repos\BankExtintoin\x64\Debug\BankExtintoin.exe

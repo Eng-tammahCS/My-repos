@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a new life\\source\\repos\\ProjectCurrency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C47E3-EA16-4152-AD02-D5FAF06B5F34}|ProjectCurrency.vcxproj|C:\\Users\\a new life\\source\\repos\\ProjectCurrency\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C4C47E3-EA16-4152-AD02-D5FAF06B5F34}|ProjectCurrency.vcxproj|solutionrelative:clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4C47E3-EA16-4152-AD02-D5FAF06B5F34}|ProjectCurrency.vcxproj|C:\\Users\\a new life\\source\\repos\\ProjectCurrency\\ProjectCurrency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C4C47E3-EA16-4152-AD02-D5FAF06B5F34}|ProjectCurrency.vcxproj|solutionrelative:ProjectCurrency.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\a new life\\source\\repos\\ProjectCurrency\\clsCurrency.h",
+              "RelativeDocumentMoniker": "clsCurrency.h",
+              "ToolTip": "C:\\Users\\a new life\\source\\repos\\ProjectCurrency\\clsCurrency.h",
+              "RelativeToolTip": "clsCurrency.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T19:58:31.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectCurrency.cpp",
+              "DocumentMoniker": "C:\\Users\\a new life\\source\\repos\\ProjectCurrency\\ProjectCurrency.cpp",
+              "RelativeDocumentMoniker": "ProjectCurrency.cpp",
+              "ToolTip": "C:\\Users\\a new life\\source\\repos\\ProjectCurrency\\ProjectCurrency.cpp",
+              "RelativeToolTip": "ProjectCurrency.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T19:57:11.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

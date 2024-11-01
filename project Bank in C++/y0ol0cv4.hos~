@@ -1,0 +1,14 @@
+#pragma once
+#include <iostream>
+#include "clsScreen.h"
+#include "clsPerson.h"
+#include "C:\Users\a new life\Desktop\clsInputValidate.h"
+#include "clsCurrency.h"
+using namespace std;
+
+class clsListCurrenciesScreen:public clsScreen
+{
+
+
+};
+
