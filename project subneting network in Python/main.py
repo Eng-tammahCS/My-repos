@@ -1,3 +1,4 @@
+import Guid
 from superAddress import SuperNetwork
 from  addressNetwork import AddressNetwork
 def read_inputs():
@@ -38,10 +39,25 @@ def perform_subneting():
     obj_subnet=SuperNetwork(address,total_host)
     list_subnetworks=[AddressNetwork(obj_subnet.subnet,total_host[0])]
     for i in range(len(total_host)-1):
-        
-        list_subnetworks[-1].broadcast[-1]+=1
-        list_subnetworks.append(AddressNetwork(list_subnetworks[-1].broadcast,total_host[i+1]))   
-        list_subnetworks[-2].broadcast[-1]-=1
+        broadcast_copy=list_subnetworks[-1].broadcast.copy()
+        broadcast_copy[-1]+=1
+        # list_subnetworks[-1].broadcast[-1]+=1
+        # print(list_subnetworks[-1].broadcast)
+        # print(list_subnetworks[-1].subnet)
+
+        # list_subnetworks.append(AddressNetwork(list_subnetworks[-1].broadcast,total_host[i+1]))   
+        list_subnetworks.append(AddressNetwork(broadcast_copy,total_host[i+1]))   
+        # print(list_subnetworks[-1].broadcast)
+        # print(list_subnetworks[-1].subnet)
+
+
+        # list_subnetworks[-2].broadcast[-1]-=1
+        # print(list_subnetworks[-1].broadcast)
+        # print(list_subnetworks[-1].subnet)
+
+
 
     print_address(address,list_subnetworks)
 perform_subneting()
+n=Guid.new
+print(n)
